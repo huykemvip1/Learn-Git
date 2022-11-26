@@ -4,15 +4,5 @@
 
 Thong tin moi
 
-/*----------*/
 
-Khong them tu nhanh 26112022
-
-
-/* ---------------- */
-
-1 so dong chu cua nhanh 26112022
-
-/* --------- */
-26112022-v2.0
 
