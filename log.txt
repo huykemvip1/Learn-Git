@@ -1,3 +1,5 @@
 {
-   Nguyen Dinh Huy - sinh ngay 25 thang 7
+
+   Nguyen Dinh Huy - sinh ngay 25 thang 7 sinh nam 1998
+
 }
